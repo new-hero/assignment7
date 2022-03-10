@@ -244,6 +244,21 @@ img {
 #reported{
   display: none;
 }
+.addedsection{
+  width: 50%;
+  margin: 100px auto;
+  text-align: justify;
+}
+.addedsection .title{
+  margin-bottom: 10px;
+  text-decoration: underline;
+  text-align: center;
+}
+.addedsection p{
+  margin-bottom: 20px;
+  font-size: 20px;
+}
+  
 
 @media only screen and (max-width: 992px) {
   #posts {
